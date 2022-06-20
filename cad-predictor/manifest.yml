@@ -1,0 +1,5 @@
+---
+applications:
+- name: cad-predictor
+  memory: 1G
+  disk_quota: 2G
