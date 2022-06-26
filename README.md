@@ -1,7 +1,9 @@
 # CAD Classifier
 
-This project intends to test the integration between HiveMQ, Python scalable applications, Keras models and cloud foundry.
-This project uses:
+This project intends to test the integration between HiveMQ (MQTT), Python scalable applications model, Keras classification models and cloud foundry.
+
+This project use the following technologies:
+
 - SAP Hana trial (cloud foundry)
 - HiveMQ (MQTT broker)
 - Base64 encode and decode 
